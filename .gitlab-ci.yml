@@ -1,0 +1,9 @@
+image: node:20
+
+pages:
+ cache:
+ artifacts:
+   paths:
+   - public
+ only:
+ - master
