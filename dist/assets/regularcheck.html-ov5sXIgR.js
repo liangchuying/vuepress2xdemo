@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3843708b","path":"/components/javascript/regularcheck.html","title":"正则校验","lang":"zh-CN","frontmatter":{"tags":["正则校验"]},"headers":[],"git":{"updatedTime":1706175974000},"filePathRelative":"components/javascript/regularcheck.md"}');export{t as data};

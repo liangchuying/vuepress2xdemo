@@ -1,0 +1,1 @@
+import{_,r as e,o as c,c as l,a as n,w as a}from"./app-xyvm7-4C.js";const s={};function r(i,m){const t=e("home_nav-index"),o=e("ClientOnly");return c(),l("div",null,[n(o,null,{default:a(()=>[n(t)]),_:1})])}const f=_(s,[["render",r],["__file","index.html.vue"]]);export{f as default};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-54de055e","path":"/components/pages/gradient.html","title":"","lang":"zh-CN","frontmatter":{"tags":["Button","javascript"]},"headers":[],"git":{"updatedTime":1705220475000},"filePathRelative":"components/pages/gradient.md"}');export{t as data};

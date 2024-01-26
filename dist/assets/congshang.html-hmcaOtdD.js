@@ -1,0 +1,1 @@
+const n=JSON.parse('{"key":"v-c9524970","path":"/components/congshang/congshang.html","title":"congshang常用组件","lang":"zh-CN","frontmatter":{"tags":["congshang","congshang组件"]},"headers":[],"git":{"updatedTime":1706175974000},"filePathRelative":"components/congshang/congshang.md"}');export{n as data};

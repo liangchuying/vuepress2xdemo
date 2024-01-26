@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-21509b14","path":"/components/congshang/inno-setup.html","title":"inno setup 配置文件","lang":"zh-CN","frontmatter":{"tags":"-inno-setup"},"headers":[],"git":{"updatedTime":1705916028000},"filePathRelative":"components/congshang/inno-setup.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-3ae4c59c","path":"/components/javascript/shared.html","title":"信息隐藏","lang":"zh-CN","frontmatter":{"tags":["共享函数","shared"]},"headers":[],"git":{"updatedTime":1706175974000},"filePathRelative":"components/javascript/shared.md"}');export{a as data};

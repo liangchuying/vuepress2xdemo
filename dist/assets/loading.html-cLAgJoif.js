@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-15e4fcc8","path":"/components/pages/loading.html","title":"加载动画","lang":"zh-CN","frontmatter":{"tags":["Button","javascript"]},"headers":[],"git":{"updatedTime":1705916028000},"filePathRelative":"components/pages/loading.md"}');export{t as data};
